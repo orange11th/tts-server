@@ -1,0 +1,12 @@
+*.py[co]
+
+content/src/flask/models/*
+!content/src/flask/models/.gitkeep
+
+content/src/g2pK
+content/src/TTS
+
+*.spec
+build/
+dist/
+data/mecab/
